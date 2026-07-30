@@ -1,2 +1,0 @@
-# DAA_LAB_PARTICALS
-daa
